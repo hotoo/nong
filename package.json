@@ -1,0 +1,27 @@
+{
+  "name": "nong",
+  "version": "0.0.0",
+  "description": "农历日期(Nong Li Date)",
+  "keywords": [],
+  "homepage": "",
+  "author": "hotoo <hotoo.cn@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    },
+    "engines": {
+      "seajs": "2.3.0"
+    }
+  }
+}
